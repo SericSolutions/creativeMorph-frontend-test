@@ -11,6 +11,7 @@ export interface Programmer {
   level: number;
 }
 
+
 export enum AddProgrammerActionTypes {
   ADD_PROGRAMMER = 'ADD_PROGRAMMER',
 }
